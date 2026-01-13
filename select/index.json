@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Burn the Disco Floor with Your “2-step”!!",
+  "base_artist": "Fear, and Loathing in Las Vegas",
+  "createdAt": "2026-01-13T23:28:23.265721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burn the Disco Floor with Your ''2-step''!!",
+      "artist": "Fear",
+      "has_synced": true,
+      "path": "select/01_Burn_the_Disco_Floor_with_Your_''2-step''!!_Fear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Burn the Disco Floor with Your 2-step!!",
+      "artist": "Fear",
+      "has_synced": true,
+      "path": "select/02_Burn_the_Disco_Floor_with_Your_2-step!!_Fear.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Burn the Disco Floor with Your \"2-step\"!!",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/03_Burn_the_Disco_Floor_with_Your__2-step_!!_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Burn the Disco Floor with Your “2-step”!!",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/04_Burn_the_Disco_Floor_with_Your_“2-step”!!_Fear,_and_Loathing_in_Las_Vegas.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Burn The Disco Floor With Your 2-Step!!",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/05_Burn_The_Disco_Floor_With_Your_2-Step!!_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burn the Disco Floor with Your ''2-step''!!",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/06_Burn_the_Disco_Floor_with_Your_''2-step''!!_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Burn the Disco Floor with Your “2-step”!!",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/pl_01_Burn_the_Disco_Floor_with_Your_“2-step”!!_Fear,_and_Loathing_in_Las_Vegas.txt"
+    }
+  ]
+}
